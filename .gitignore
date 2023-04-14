@@ -1,5 +1,3 @@
-/BLAKE_2s
-/BLAKE_256
-/DES algorithm
-/References
-/Slides
+/blake_2s
+/blake_256
+/des_algorithm
